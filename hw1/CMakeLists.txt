@@ -3,10 +3,10 @@ project(TypeList)
 
 set(CMAKE_CXX_STANDARD 11)
 
-include_directories(.)
+include_directories(..)
 
 add_executable(
         TypeList
         main.cpp
-        hw1/test/TestTypeList.hpp
-        hw1/include/TypeList.hpp)
+        test/TestTypeList.hpp
+        include/TypeList.hpp)

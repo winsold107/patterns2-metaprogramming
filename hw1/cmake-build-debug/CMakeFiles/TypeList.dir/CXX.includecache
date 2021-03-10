@@ -6,17 +6,15 @@
 
 #IncludeRegexTransform: 
 
-../include/TypeList.hpp
-
-/Users/winsold/Desktop/phystech/patterns2-metaprogramming/main.cpp
+/Users/winsold/Desktop/phystech/patterns2-metaprogramming/hw1/main.cpp
 test/TestTypeList.hpp
-/Users/winsold/Desktop/phystech/patterns2-metaprogramming/test/TestTypeList.hpp
+/Users/winsold/Desktop/phystech/patterns2-metaprogramming/hw1/test/TestTypeList.hpp
 iostream
 -
 
-/Users/winsold/Desktop/phystech/patterns2-metaprogramming/test/TestTypeList.hpp
+/Users/winsold/Desktop/phystech/patterns2-metaprogramming/hw1/test/TestTypeList.hpp
 type_traits
 -
 include/TypeList.hpp
-/Users/winsold/Desktop/phystech/patterns2-metaprogramming/test/include/TypeList.hpp
+/Users/winsold/Desktop/phystech/patterns2-metaprogramming/hw1/test/include/TypeList.hpp
 
