@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/TypeList.hpp
+
+/Users/winsold/Desktop/phystech/patterns2-metaprogramming/main.cpp
+test/TestTypeList.hpp
+/Users/winsold/Desktop/phystech/patterns2-metaprogramming/test/TestTypeList.hpp
+iostream
+-
+
+/Users/winsold/Desktop/phystech/patterns2-metaprogramming/test/TestTypeList.hpp
+type_traits
+-
+include/TypeList.hpp
+/Users/winsold/Desktop/phystech/patterns2-metaprogramming/test/include/TypeList.hpp
+
